@@ -1,0 +1,15 @@
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.exe
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.deps.json
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.runtimeconfig.json
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.pdb
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.csproj.AssemblyReference.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.AssemblyInfoInputs.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.AssemblyInfo.cs
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.csproj.CoreCompileInputs.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\refint\tpmodul6_kelompok_rojakSquad.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.pdb
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\tpmodul6_kelompok_rojakSquad.genruntimeconfig.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP6\tpmodul6_kelompok_rojakSquad\tpmodul6_kelompok_rojakSquad\obj\Debug\net6.0\ref\tpmodul6_kelompok_rojakSquad.dll
