@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj": {}
+    "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj": {}
   },
   "projects": {
-    "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj": {
+    "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
+        "projectUniqueName": "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
         "projectName": "tpmodul6_kelompok_rojakSquad",
-        "projectPath": "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
-        "packagesPath": "C:\\Users\\powny\\.nuget\\packages\\",
-        "outputPath": "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\obj\\",
+        "projectPath": "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
+        "packagesPath": "C:\\Users\\razqy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\powny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\razqy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

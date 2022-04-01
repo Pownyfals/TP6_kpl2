@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7KFD56BHdQI+ghhbTKic4DnA/mPA43gr3fdb3r6Q9jSo1d6yjrCk8NBa9unIu6NSmct8eemhzi6qijVzK3URpQ==",
+  "dgSpecHash": "8ATdMoac1+ObccpYrWqk3xwxpd0xSlTv0q+LVa/4Q8eg+0lR82pakP/v9/sux4/OPLOeLjmmrFoU1enGlmWhIg==",
   "success": true,
-  "projectFilePath": "C:\\College\\Programming\\Konstruksi Perangkat Lunak\\TP\\TP6\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\razqy\\Source\\Repos\\TP6_kpl2\\tpmodul6_kelompok_rojakSquad\\tpmodul6_kelompok_rojakSquad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razqy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
