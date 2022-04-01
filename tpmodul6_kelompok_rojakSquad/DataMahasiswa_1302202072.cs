@@ -20,6 +20,7 @@ namespace tpmodul6_kelompok_rojakSquad
             JObject parsed = JObject.Parse(jsonString);
 
             var nama = parsed["nama"];
+            Console.WriteLine(nama.GetType);
             var depan = nama["depan"].Value<String>();
             var belakang = nama["belakang"].Value<String>();
 

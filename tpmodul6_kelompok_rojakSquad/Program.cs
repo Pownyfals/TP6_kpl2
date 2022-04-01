@@ -9,6 +9,9 @@ namespace tpmodul6_kelompok_rojakSquad // Note: actual namespace depends on the 
             
             DataMahasiswa_1302202072 r = new DataMahasiswa_1302202072();
             r.readJson();
+
+            kuliahMahasiswa_1302202072 k = new kuliahMahasiswa_1302202072();
+            k.readJson();
         }
     }
 }
