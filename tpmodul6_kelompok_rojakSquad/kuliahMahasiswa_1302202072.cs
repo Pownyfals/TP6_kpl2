@@ -24,7 +24,7 @@ namespace tpmodul6_kelompok_rojakSquad
             foreach (var item in arr)
             {
                 
-                Console.WriteLine("MK {0} {1}-{2}", i, item["code"].Value<String>(), item["name"].Value<String>());
+                Console.WriteLine("MK {0} {1}-{2}", i, item["code"], item["name"]);
                 i+=1;
             }
             
