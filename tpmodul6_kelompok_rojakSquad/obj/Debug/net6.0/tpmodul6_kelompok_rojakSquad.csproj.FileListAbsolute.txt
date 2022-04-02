@@ -1,3 +1,4 @@
+
 C:\Users\razqy\Source\Repos\TP6_kpl2\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.exe
 C:\Users\razqy\Source\Repos\TP6_kpl2\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.deps.json
 C:\Users\razqy\Source\Repos\TP6_kpl2\tpmodul6_kelompok_rojakSquad\bin\Debug\net6.0\tpmodul6_kelompok_rojakSquad.runtimeconfig.json
